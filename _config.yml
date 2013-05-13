@@ -1,7 +1,7 @@
 name: Bootbatch
 pygments: true
 lsi: false
-url: http://diegochavez.github.io/Bootbatch/
+url: http://bootbatch.volumens.com/
 # this goes inside _config.yml. Change as required
 navigation:
 - text: Home
