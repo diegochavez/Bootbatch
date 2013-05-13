@@ -1,0 +1,15 @@
+name: Bootbatch
+pygments: true
+
+# this goes inside _config.yml. Change as required
+navigation:
+- text: Home
+  url: /index.html
+- text: Docs
+  url: /docs/index.html
+- text: About
+  url: /about/index.html
+- text: Contact me
+  url: mailto:diego@volumens.com
+
+

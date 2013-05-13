@@ -1,0 +1,21 @@
+<div class="navbar navbar-inverse navbar-static-top">
+
+  <div class="navbar-inner">
+      <div class="container">
+      <a class="brand logo" href="#"> Bootbatch</a>
+        {% unless page.layout == 'front' %}
+  <ul class="nav pull-right">
+    {% for link in site.navigation %}
+      {% assign current = nil %}
+      
+
+      <li {% if page.url == link.url %}class="active"{% endif %} >
+        <a href="{{ link.url }}">{{ link.text }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endunless %}
+    </div>
+  </div>
+
+</div><!-- Navigation -->
