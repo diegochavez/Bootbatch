@@ -10,7 +10,5 @@ navigation:
   url: docs/index.html
 - text: About
   url: about/index.html
-- text: Contact me
-  url: http://mailto:diego@volumens.com
 
 
