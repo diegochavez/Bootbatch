@@ -11,6 +11,6 @@ navigation:
 - text: About
   url: about/index.html
 - text: Contact me
-  url: mailto:diego@volumens.com
+  url: http://mailto:diego@volumens.com
 
 
