@@ -1,0 +1,93 @@
+
+body {
+font-family: 'Titillium Web', sans-serif;
+font-size: 16px;
+background-color: #f2f2f2;
+}
+.navbar-inverse .navbar-inner{
+padding: 10px 0;
+background-color: #E65657;
+border-color: #cc4a49;
+}
+.navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus {
+color: #FFF;
+background-color: #cc4a49; 
+}
+.navbar-inverse .brand, .navbar-inverse .nav > li > a {
+  color: #FFF;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+.godzilla{
+font-size: 190px;
+}
+.center{text-align: center;}
+.btn{
+-webkit-border-radius: 3px !important;
+-moz-border-radius: 3px !important;
+border-radius: 3px !important;
+}
+.brand{
+color:white !important;
+font-size: 30px !important;
+}
+    .logo{
+      font-family: 'Pacifico', cursive;
+    }
+.home-section{
+  padding: 40px 0;
+}
+
+      /* Custom container */
+      .container {
+        margin: 0 auto;
+        max-width: 1000px;
+      }
+      .container > hr {
+        margin: 60px 0;
+      }
+
+      /* Main marketing message and sign up button */
+      .jumbotron {
+        background-color: #212830;
+        color:#FFF;
+        padding: 80px 0;
+      }
+      .jumbotron h1 {
+        font-size: 100px;
+        line-height: 1;
+      }
+      .jumbotron .lead {
+        font-size: 24px;
+        line-height: 1.25;
+      }
+      .jumbotron .btn {
+        font-size: 21px;
+        padding: 14px 24px;
+      }
+
+      /* Supporting marketing content */
+  
+#footer{
+  margin-top: 20px;
+position: relative;
+height: 120px;
+line-height: 120px;
+border-top: 4px solid #0a0d12;
+color: #586373;
+background: #0d1117;
+}
+
+/* Custom Media Queries */
+@media (max-width: 767px){
+body {
+padding: 0px !important;
+}
+.container{
+  margin: 0 20px;
+}
+
+}
+
+      
