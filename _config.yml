@@ -5,11 +5,11 @@ url: http://diegochavez.github.io/Bootbatch/
 # this goes inside _config.yml. Change as required
 navigation:
 - text: Home
-  url: /index.html
+  url: index.html
 - text: Docs
-  url: /docs/index.html
+  url: docs/index.html
 - text: About
-  url: /about/index.html
+  url: about/index.html
 - text: Contact me
   url: mailto:diego@volumens.com
 
