@@ -1,6 +1,7 @@
 name: Bootbatch
 pygments: true
 lsi: false
+auto: true
 url: http://bootbatch.volumens.com/
 # this goes inside _config.yml. Change as required
 navigation:
