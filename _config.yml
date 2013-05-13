@@ -1,6 +1,6 @@
 name: Bootbatch
 pygments: true
-
+lsi: false
 # this goes inside _config.yml. Change as required
 navigation:
 - text: Home
